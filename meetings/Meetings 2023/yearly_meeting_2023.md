@@ -36,11 +36,17 @@ Meeting started:
 ### Motions and Important Matters
 
 #### Motion to Agree Upon and Update the Version of The Association Statutes
-§3.4.1 "**Interpretation questions
-If interpretation questions should arise in the statutes, these issues will be dealt with immediately with the board deciding the interpretation until the next big meeting. During the big meeting, the misinterpretation will be decided and adjusted.**"
+**§3.4.1: "If interpretation questions should arise in the statutes, these issues will be dealt with immediately with the board deciding the interpretation until the next big meeting. During the big meeting, the misinterpretation will be decided and adjusted."**
 
 Due to conflict among members with statute changes and definitions outlined within the Github repository, Tadj believe it would serve the organization better if members agree which set of statutes to recognize as official. In this way, we have an official stance on conflicting statute versions, and can therefore update them accordingly.
 Tadj proposes a vote to adopt and recognize officially the most upt-to-date version of the statute changes.
+
+#### Motion for the Dissolution of the Association
+**§1.5: "The dissolution of the association requires approval of at least a 90% majority of the voters at the next major meeting. Upon dissolution, after any debts are paid, the remaining liquid funds accrue to one nonprofit organization elected by the association's members."**
+
+With the current state of the association, it may be not be worth the effort to salvage it. A motion is raised by anonymous members to dissolve the association, potentially directing the resources of members to a new association to be created. 
+
+Reccommended non-profit: [Vaxjo Charity](https://vaxjocharity.se/)
 
 #### Election of Board mebers.
 Elections of:
