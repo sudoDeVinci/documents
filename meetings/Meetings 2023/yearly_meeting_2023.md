@@ -97,6 +97,10 @@ Tadj proposes the addition of this auditor role to the board as it pertains to a
 ### Other Matters
 #### George's Event Schema Powerpoint
 George would like to present a number of suggestions for ongoing club events.
+#### Edmunds' event coordination idea
+ All events organized by Kodkollektivet should be recorded and ,if necessary, modified before publishing. 
+
+Edmunds believes that the awareness of events happening in Kodkollektivet is not enough and it is necessary to create video content of what we are doing in order to help this organization grow.
 
 
 --------------------------------------------
